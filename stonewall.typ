@@ -222,6 +222,13 @@
   rgb("#a9a9a9"),
   rgb("#000000"),
 )
+#let aroace = (
+  rgb("#e28c00"),
+  rgb("#eccd00"),
+  rgb("#ffffff"),
+  rgb("#62aedc"),
+  rgb("#203856"),
+)
 #let pansexual = (
   rgb("#ff218c"),
   rgb("#ffd800"),
@@ -246,6 +253,22 @@
   rgb("#d162a4"),
   rgb("#b55690"),
   rgb("#a30262")
+)
+#let blacklesbian = (
+  rgb("#5f232d"),
+  rgb("#71443f"),
+  rgb("#875e5c"),
+  rgb("#ffffff"),
+  rgb("#eea05e"),
+  rgb("#c05e36"),
+  rgb("#852f16")
+)
+#let abrosexual = (
+  rgb("#65c286"),
+  rgb("#b4e4cc"),
+  rgb("#ffffff"),
+  rgb("#e796b7"),
+  rgb("#d9446e")
 )
 #let flags = (
   ("trans",trans),
@@ -283,4 +306,7 @@
   ("asexual",asexual),
   ("bisexual",bisexual),
   ("lesbian",lesbian),
+  ("aroace", aroace),
+  ("blacklesbian",blacklesbian),
+  ("abrosexual",abrosexual)
 )
